@@ -1,0 +1,39 @@
+body{
+	font: 15px/1.5 Arial, Helvetica,sans-serif;
+	padding:0;
+	margin: 0;
+    background-color:#A9A9A9;
+    justify-content: center;
+}
+#boxes{
+	margin-top:20px;
+}
+.container{
+	width:80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+
+
+#boxes .box{
+	float:left;
+    text-align:center;
+    justify-content: center;
+	width:30%;
+	padding:10px;
+}
+#column{
+    text-align: justify;
+
+}
+
+
+#boxes .box img{
+	width:200px;
+}
+.title{
+    text-align: left;
+    color: crimson;
+    font-size: 30px;
+}
