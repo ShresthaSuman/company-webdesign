@@ -1,2 +1,2 @@
 # project1
-https://shresthasuman.github.io/static-website/.
+https://shresthasuman.github.io/company-webdesign/.
